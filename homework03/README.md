@@ -11,3 +11,7 @@
 ## score 26.18
 * Использовал GRU вместо LSTM
 * Реализовал weighted attention (dot product between decoder state & W_matrinx & encoder output)
+
+## score 28.30
+* Использовал GRU вместо LSTM
+* general attention from torchnlp
