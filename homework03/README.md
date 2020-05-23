@@ -15,3 +15,7 @@
 ## score 28.30
 * Использовал GRU вместо LSTM
 * general attention from torchnlp
+
+## score 30.10
+* Использовал LSTM
+* general attention from torchnlp
