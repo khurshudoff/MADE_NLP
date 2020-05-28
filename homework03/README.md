@@ -19,3 +19,12 @@
 ## score 30.10
 * Использовал LSTM
 * general attention from torchnlp
+
+## score 24
+* Попробовал добавить PE, после одной из лекций, понял, что это было бессмысленно
+
+## score 30.00
+* Использовал BiLSTM
+* general attention from torchnlp
+* Output энкодреа просто плюсовал, чтобы перейти от 2*hid_dim к hid_dim
+* Hidden энкодера приобразовал к нужному размеру с помощью линейного слоя
